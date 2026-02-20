@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Distribution / packaging
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code specific files and folders
+.vscode/ # Optional: ignores all workspace settings. Consider adding to a global gitignore instead.
+*.log
+debug*.log
+debugpy*.log
+
+# Environment variables
+.env
+
