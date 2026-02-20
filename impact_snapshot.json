@@ -1,0 +1,2339 @@
+{
+  "generated_at": "2026-02-20T19:56:31.175419+00:00",
+  "repo": "PostHog/posthog",
+  "window_days": 90,
+  "total_prs_analyzed": 200,
+  "hot_paths": [
+    ".github",
+    "frontend",
+    "posthog",
+    "products"
+  ],
+  "engineers": {
+    "Gilbert09": {
+      "delivery": 56.59,
+      "leverage": 32.5,
+      "collaboration": 58.24,
+      "reliability": 70.0,
+      "impact": 45.92,
+      "pr_count": 2,
+      "review_count": 4
+    },
+    "MattBro": {
+      "delivery": 63.33,
+      "leverage": 46.04,
+      "collaboration": 15.0,
+      "reliability": 67.37,
+      "impact": 41.34,
+      "pr_count": 5,
+      "review_count": 0
+    },
+    "MichaelKutsch-ph": {
+      "delivery": 60.42,
+      "leverage": 0.0,
+      "collaboration": 57.58,
+      "reliability": 55.0,
+      "impact": 30.56,
+      "pr_count": 2,
+      "review_count": 1
+    },
+    "Radu-Raicea": {
+      "delivery": 72.99,
+      "leverage": 65.0,
+      "collaboration": 66.14,
+      "reliability": 56.47,
+      "impact": 59.33,
+      "pr_count": 8,
+      "review_count": 6
+    },
+    "TueHaulund": {
+      "delivery": 69.87,
+      "leverage": 65.0,
+      "collaboration": 39.95,
+      "reliability": 70.0,
+      "impact": 55.11,
+      "pr_count": 2,
+      "review_count": 1
+    },
+    "Twixes": {
+      "delivery": 51.78,
+      "leverage": 47.85,
+      "collaboration": 57.34,
+      "reliability": 55.0,
+      "impact": 45.12,
+      "pr_count": 3,
+      "review_count": 1
+    },
+    "adamleithp": {
+      "delivery": 67.36,
+      "leverage": 62.4,
+      "collaboration": 51.71,
+      "reliability": 61.52,
+      "impact": 54.49,
+      "pr_count": 5,
+      "review_count": 7
+    },
+    "andehen": {
+      "delivery": 65.26,
+      "leverage": 65.0,
+      "collaboration": 49.44,
+      "reliability": 67.37,
+      "impact": 55.2,
+      "pr_count": 5,
+      "review_count": 1
+    },
+    "andrewm4894": {
+      "delivery": 62.49,
+      "leverage": 45.57,
+      "collaboration": 65.88,
+      "reliability": 58.53,
+      "impact": 50.74,
+      "pr_count": 8,
+      "review_count": 11
+    },
+    "andyzzhao": {
+      "delivery": 65.15,
+      "leverage": 65.0,
+      "collaboration": 49.55,
+      "reliability": 70.0,
+      "impact": 55.77,
+      "pr_count": 2,
+      "review_count": 4
+    },
+    "benjackwhite": {
+      "delivery": 75.94,
+      "leverage": 59.58,
+      "collaboration": 57.89,
+      "reliability": 70.0,
+      "impact": 60.1,
+      "pr_count": 2,
+      "review_count": 2
+    },
+    "dmarticus": {
+      "delivery": 69.77,
+      "leverage": 53.98,
+      "collaboration": 64.41,
+      "reliability": 62.63,
+      "impact": 56.19,
+      "pr_count": 6,
+      "review_count": 1
+    },
+    "eli-r-ph": {
+      "delivery": 72.97,
+      "leverage": 46.43,
+      "collaboration": 49.67,
+      "reliability": 62.09,
+      "impact": 51.8,
+      "pr_count": 7,
+      "review_count": 1
+    },
+    "estefaniarabadan": {
+      "delivery": 67.17,
+      "leverage": 65.0,
+      "collaboration": 15.0,
+      "reliability": 63.35,
+      "impact": 46.3,
+      "pr_count": 3,
+      "review_count": 0
+    },
+    "fasyy612": {
+      "delivery": 61.61,
+      "leverage": 65.0,
+      "collaboration": 50.77,
+      "reliability": 64.15,
+      "impact": 53.52,
+      "pr_count": 2,
+      "review_count": 2
+    },
+    "frankh": {
+      "delivery": 55.58,
+      "leverage": 65.0,
+      "collaboration": 48.19,
+      "reliability": 70.0,
+      "impact": 52.06,
+      "pr_count": 2,
+      "review_count": 2
+    },
+    "jordanm-posthog": {
+      "delivery": 65.29,
+      "leverage": 47.27,
+      "collaboration": 15.0,
+      "reliability": 70.0,
+      "impact": 42.75,
+      "pr_count": 2,
+      "review_count": 0
+    },
+    "jose-sequeira": {
+      "delivery": 60.41,
+      "leverage": 32.5,
+      "collaboration": 57.1,
+      "reliability": 70.0,
+      "impact": 46.97,
+      "pr_count": 2,
+      "review_count": 5
+    },
+    "lricoy": {
+      "delivery": 65.47,
+      "leverage": 32.5,
+      "collaboration": 63.31,
+      "reliability": 55.0,
+      "impact": 46.85,
+      "pr_count": 2,
+      "review_count": 2
+    },
+    "meikelmosby": {
+      "delivery": 61.49,
+      "leverage": 0.0,
+      "collaboration": 61.78,
+      "reliability": 55.0,
+      "impact": 31.41,
+      "pr_count": 2,
+      "review_count": 2
+    },
+    "mendral-app": {
+      "delivery": 52.89,
+      "leverage": 32.5,
+      "collaboration": 21.67,
+      "reliability": 67.78,
+      "impact": 36.49,
+      "pr_count": 6,
+      "review_count": 0
+    },
+    "patricio-posthog": {
+      "delivery": 58.31,
+      "leverage": 65.0,
+      "collaboration": 64.64,
+      "reliability": 70.0,
+      "impact": 56.79,
+      "pr_count": 2,
+      "review_count": 2
+    },
+    "pauldambra": {
+      "delivery": 59.95,
+      "leverage": 61.9,
+      "collaboration": 65.84,
+      "reliability": 66.37,
+      "impact": 56.0,
+      "pr_count": 14,
+      "review_count": 10
+    },
+    "pawel-cebula": {
+      "delivery": 60.47,
+      "leverage": 55.52,
+      "collaboration": 43.27,
+      "reliability": 64.15,
+      "impact": 48.94,
+      "pr_count": 2,
+      "review_count": 1
+    },
+    "rafaeelaudibert": {
+      "delivery": 57.32,
+      "leverage": 56.88,
+      "collaboration": 47.51,
+      "reliability": 64.38,
+      "impact": 49.21,
+      "pr_count": 8,
+      "review_count": 12
+    },
+    "richardsolomou": {
+      "delivery": 70.88,
+      "leverage": 65.0,
+      "collaboration": 62.88,
+      "reliability": 64.15,
+      "impact": 59.62,
+      "pr_count": 2,
+      "review_count": 4
+    },
+    "rodrigoi": {
+      "delivery": 59.84,
+      "leverage": 65.0,
+      "collaboration": 59.77,
+      "reliability": 66.78,
+      "impact": 55.52,
+      "pr_count": 4,
+      "review_count": 3
+    },
+    "sampennington": {
+      "delivery": 65.4,
+      "leverage": 64.19,
+      "collaboration": 55.79,
+      "reliability": 70.0,
+      "impact": 57.1,
+      "pr_count": 8,
+      "review_count": 7
+    },
+    "scheduled-actions-posthog": {
+      "delivery": 64.54,
+      "leverage": 0.0,
+      "collaboration": 15.0,
+      "reliability": 55.0,
+      "impact": 25.61,
+      "pr_count": 3,
+      "review_count": 0
+    },
+    "skoob13": {
+      "delivery": 68.42,
+      "leverage": 9.34,
+      "collaboration": 69.4,
+      "reliability": 67.78,
+      "impact": 44.31,
+      "pr_count": 6,
+      "review_count": 5
+    },
+    "sortafreel": {
+      "delivery": 51.39,
+      "leverage": 65.0,
+      "collaboration": 48.34,
+      "reliability": 55.0,
+      "impact": 47.43,
+      "pr_count": 2,
+      "review_count": 1
+    },
+    "tatoalo": {
+      "delivery": 60.54,
+      "leverage": 65.0,
+      "collaboration": 64.38,
+      "reliability": 55.0,
+      "impact": 54.16,
+      "pr_count": 2,
+      "review_count": 4
+    },
+    "thmsobrmlr": {
+      "delivery": 61.98,
+      "leverage": 65.0,
+      "collaboration": 47.52,
+      "reliability": 60.0,
+      "impact": 51.99,
+      "pr_count": 3,
+      "review_count": 8
+    },
+    "timgl": {
+      "delivery": 58.85,
+      "leverage": 65.0,
+      "collaboration": 15.0,
+      "reliability": 60.0,
+      "impact": 42.99,
+      "pr_count": 2,
+      "review_count": 0
+    },
+    "tomasfarias": {
+      "delivery": 63.47,
+      "leverage": 65.0,
+      "collaboration": 15.0,
+      "reliability": 65.85,
+      "impact": 45.61,
+      "pr_count": 3,
+      "review_count": 0
+    },
+    "vdekrijger": {
+      "delivery": 60.3,
+      "leverage": 60.67,
+      "collaboration": 51.4,
+      "reliability": 67.5,
+      "impact": 52.79,
+      "pr_count": 3,
+      "review_count": 5
+    },
+    "veryayskiy": {
+      "delivery": 67.77,
+      "leverage": 63.98,
+      "collaboration": 55.77,
+      "reliability": 55.0,
+      "impact": 54.52,
+      "pr_count": 4,
+      "review_count": 5
+    },
+    "webjunkie": {
+      "delivery": 66.04,
+      "leverage": 33.84,
+      "collaboration": 69.41,
+      "reliability": 59.56,
+      "impact": 49.64,
+      "pr_count": 15,
+      "review_count": 12
+    },
+    "yasen-posthog": {
+      "delivery": 61.98,
+      "leverage": 63.56,
+      "collaboration": 62.59,
+      "reliability": 63.63,
+      "impact": 55.84,
+      "pr_count": 9,
+      "review_count": 1
+    },
+    "z0br0wn": {
+      "delivery": 63.86,
+      "leverage": 0.0,
+      "collaboration": 53.22,
+      "reliability": 57.5,
+      "impact": 31.15,
+      "pr_count": 3,
+      "review_count": 5
+    }
+  },
+  "time_series": {
+    "Classy-Bear": [
+      {
+        "week": "2026-02-16",
+        "delivery": 54.68,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 0.0,
+        "impact": 25.3,
+        "risk_weighted_prs": 0.212,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "Gilbert09": [
+      {
+        "week": "2026-02-16",
+        "delivery": 56.59,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 32.5,
+        "impact": 36.48,
+        "risk_weighted_prs": 0.612,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "MarconLP": [
+      {
+        "week": "2026-02-16",
+        "delivery": 98.1,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 65.0,
+        "impact": 54.49,
+        "risk_weighted_prs": 1.0,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "MattBro": [
+      {
+        "week": "2026-02-16",
+        "delivery": 63.33,
+        "collaboration": 15.0,
+        "reliability": 67.37,
+        "leverage": 46.04,
+        "impact": 41.34,
+        "risk_weighted_prs": 2.556,
+        "reverts_issues": 0,
+        "pr_count": 5
+      }
+    ],
+    "MichaelKutsch-ph": [
+      {
+        "week": "2026-02-16",
+        "delivery": 60.42,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 0.0,
+        "impact": 24.6,
+        "risk_weighted_prs": 0.631,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "Radu-Raicea": [
+      {
+        "week": "2026-02-16",
+        "delivery": 72.99,
+        "collaboration": 15.0,
+        "reliability": 56.47,
+        "leverage": 65.0,
+        "impact": 46.8,
+        "risk_weighted_prs": 5.542,
+        "reverts_issues": 0,
+        "pr_count": 8
+      }
+    ],
+    "ReeceJones": [
+      {
+        "week": "2026-02-16",
+        "delivery": 62.64,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 65.0,
+        "impact": 43.22,
+        "risk_weighted_prs": 0.735,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "TueHaulund": [
+      {
+        "week": "2026-02-16",
+        "delivery": 69.87,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 65.0,
+        "impact": 48.48,
+        "risk_weighted_prs": 1.178,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "Twixes": [
+      {
+        "week": "2026-02-16",
+        "delivery": 51.78,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 47.85,
+        "impact": 35.86,
+        "risk_weighted_prs": 0.63,
+        "reverts_issues": 0,
+        "pr_count": 3
+      }
+    ],
+    "abhischekt": [
+      {
+        "week": "2026-02-16",
+        "delivery": 76.37,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 0.0,
+        "impact": 30.61,
+        "risk_weighted_prs": 0.745,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "ablaszkiewicz": [
+      {
+        "week": "2026-02-16",
+        "delivery": 61.06,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 65.0,
+        "impact": 42.72,
+        "risk_weighted_prs": 0.704,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "adamleithp": [
+      {
+        "week": "2026-02-16",
+        "delivery": 67.36,
+        "collaboration": 15.0,
+        "reliability": 61.52,
+        "leverage": 62.4,
+        "impact": 45.39,
+        "risk_weighted_prs": 2.902,
+        "reverts_issues": 0,
+        "pr_count": 5
+      }
+    ],
+    "adboio": [
+      {
+        "week": "2026-02-16",
+        "delivery": 62.17,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 0.0,
+        "impact": 25.03,
+        "risk_weighted_prs": 0.337,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "andehen": [
+      {
+        "week": "2026-02-16",
+        "delivery": 65.26,
+        "collaboration": 15.0,
+        "reliability": 67.37,
+        "leverage": 65.0,
+        "impact": 46.48,
+        "risk_weighted_prs": 2.88,
+        "reverts_issues": 0,
+        "pr_count": 5
+      }
+    ],
+    "andrewm4894": [
+      {
+        "week": "2026-02-16",
+        "delivery": 62.49,
+        "collaboration": 17.5,
+        "reliability": 58.53,
+        "leverage": 45.57,
+        "impact": 39.94,
+        "risk_weighted_prs": 4.168,
+        "reverts_issues": 0,
+        "pr_count": 8
+      }
+    ],
+    "andyzzhao": [
+      {
+        "week": "2026-02-16",
+        "delivery": 65.15,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 65.0,
+        "impact": 46.96,
+        "risk_weighted_prs": 1.131,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "anirudhpillai": [
+      {
+        "week": "2026-02-16",
+        "delivery": 56.61,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 65.0,
+        "impact": 44.2,
+        "risk_weighted_prs": 0.212,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "aspicer": [
+      {
+        "week": "2026-02-16",
+        "delivery": 66.61,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 0.0,
+        "impact": 26.12,
+        "risk_weighted_prs": 0.452,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "benjackwhite": [
+      {
+        "week": "2026-02-16",
+        "delivery": 75.94,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 59.58,
+        "impact": 49.12,
+        "risk_weighted_prs": 1.403,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "carlos-marchal-ph": [
+      {
+        "week": "2026-02-16",
+        "delivery": 62.42,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 56.88,
+        "impact": 44.14,
+        "risk_weighted_prs": 0.571,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "clickhouse-sync-posthog": [
+      {
+        "week": "2026-02-16",
+        "delivery": 52.36,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 65.0,
+        "impact": 39.97,
+        "risk_weighted_prs": 0.145,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "clr182": [
+      {
+        "week": "2026-02-16",
+        "delivery": 72.37,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 65.0,
+        "impact": 46.3,
+        "risk_weighted_prs": 0.799,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "dmarticus": [
+      {
+        "week": "2026-02-16",
+        "delivery": 69.77,
+        "collaboration": 15.0,
+        "reliability": 62.63,
+        "leverage": 53.98,
+        "impact": 44.36,
+        "risk_weighted_prs": 4.123,
+        "reverts_issues": 0,
+        "pr_count": 6
+      }
+    ],
+    "eli-r-ph": [
+      {
+        "week": "2026-02-16",
+        "delivery": 72.97,
+        "collaboration": 15.0,
+        "reliability": 62.09,
+        "leverage": 46.43,
+        "impact": 43.44,
+        "risk_weighted_prs": 4.469,
+        "reverts_issues": 0,
+        "pr_count": 7
+      }
+    ],
+    "estefaniarabadan": [
+      {
+        "week": "2026-02-16",
+        "delivery": 67.17,
+        "collaboration": 15.0,
+        "reliability": 63.35,
+        "leverage": 65.0,
+        "impact": 46.3,
+        "risk_weighted_prs": 2.09,
+        "reverts_issues": 0,
+        "pr_count": 3
+      }
+    ],
+    "fasyy612": [
+      {
+        "week": "2026-02-16",
+        "delivery": 61.61,
+        "collaboration": 15.0,
+        "reliability": 64.15,
+        "leverage": 65.0,
+        "impact": 44.68,
+        "risk_weighted_prs": 0.664,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "fercgomes": [
+      {
+        "week": "2026-02-16",
+        "delivery": 63.39,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 65.0,
+        "impact": 43.46,
+        "risk_weighted_prs": 0.711,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "frankh": [
+      {
+        "week": "2026-02-16",
+        "delivery": 55.58,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 65.0,
+        "impact": 43.87,
+        "risk_weighted_prs": 0.935,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "fuziontech": [
+      {
+        "week": "2026-02-16",
+        "delivery": 84.7,
+        "collaboration": 15.0,
+        "reliability": 22.38,
+        "leverage": 78.54,
+        "impact": 46.31,
+        "risk_weighted_prs": 0.775,
+        "reverts_issues": 1,
+        "pr_count": 1
+      }
+    ],
+    "georgemunyoro": [
+      {
+        "week": "2026-02-16",
+        "delivery": 60.04,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 65.0,
+        "impact": 45.31,
+        "risk_weighted_prs": 0.365,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "gesh": [
+      {
+        "week": "2026-02-16",
+        "delivery": 57.55,
+        "collaboration": 15.0,
+        "reliability": 39.15,
+        "leverage": 48.75,
+        "impact": 34.85,
+        "risk_weighted_prs": 0.452,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "hpouillot": [
+      {
+        "week": "2026-02-16",
+        "delivery": 69.49,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 65.0,
+        "impact": 45.39,
+        "risk_weighted_prs": 0.575,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "jordanm-posthog": [
+      {
+        "week": "2026-02-16",
+        "delivery": 65.29,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 47.27,
+        "impact": 42.75,
+        "risk_weighted_prs": 0.877,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "jose-sequeira": [
+      {
+        "week": "2026-02-16",
+        "delivery": 60.41,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 32.5,
+        "impact": 37.65,
+        "risk_weighted_prs": 0.702,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "joshsny": [
+      {
+        "week": "2026-02-16",
+        "delivery": 68.25,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 0.0,
+        "impact": 26.52,
+        "risk_weighted_prs": 0.539,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "jurajmajerik": [
+      {
+        "week": "2026-02-16",
+        "delivery": 70.25,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 65.0,
+        "impact": 48.61,
+        "risk_weighted_prs": 0.608,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "lricoy": [
+      {
+        "week": "2026-02-16",
+        "delivery": 65.47,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 32.5,
+        "impact": 36.45,
+        "risk_weighted_prs": 1.067,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "luke-belton": [
+      {
+        "week": "2026-02-16",
+        "delivery": 55.72,
+        "collaboration": 15.0,
+        "reliability": 60.0,
+        "leverage": 65.0,
+        "impact": 41.99,
+        "risk_weighted_prs": 0.289,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "matheus-vb": [
+      {
+        "week": "2026-02-16",
+        "delivery": 53.1,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 0.0,
+        "impact": 24.91,
+        "risk_weighted_prs": 0.303,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "meikelmosby": [
+      {
+        "week": "2026-02-16",
+        "delivery": 61.49,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 0.0,
+        "impact": 24.86,
+        "risk_weighted_prs": 0.612,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "mendral-app": [
+      {
+        "week": "2026-02-16",
+        "delivery": 52.89,
+        "collaboration": 21.67,
+        "reliability": 67.78,
+        "leverage": 32.5,
+        "impact": 36.49,
+        "risk_weighted_prs": 1.219,
+        "reverts_issues": 0,
+        "pr_count": 6
+      }
+    ],
+    "mp-hog": [
+      {
+        "week": "2026-02-16",
+        "delivery": 76.95,
+        "collaboration": 15.0,
+        "reliability": 39.15,
+        "leverage": 65.0,
+        "impact": 44.52,
+        "risk_weighted_prs": 0.685,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "ordehi": [
+      {
+        "week": "2026-02-16",
+        "delivery": 70.06,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 65.0,
+        "impact": 48.54,
+        "risk_weighted_prs": 0.625,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "orian": [
+      {
+        "week": "2026-02-16",
+        "delivery": 51.82,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 65.0,
+        "impact": 39.8,
+        "risk_weighted_prs": 0.407,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "patricio-posthog": [
+      {
+        "week": "2026-02-16",
+        "delivery": 58.31,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 65.0,
+        "impact": 44.75,
+        "risk_weighted_prs": 1.167,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "pauldambra": [
+      {
+        "week": "2026-02-16",
+        "delivery": 59.95,
+        "collaboration": 15.0,
+        "reliability": 66.37,
+        "leverage": 61.9,
+        "impact": 43.85,
+        "risk_weighted_prs": 6.376,
+        "reverts_issues": 0,
+        "pr_count": 14
+      }
+    ],
+    "pawel-cebula": [
+      {
+        "week": "2026-02-16",
+        "delivery": 60.47,
+        "collaboration": 15.0,
+        "reliability": 64.15,
+        "leverage": 55.52,
+        "impact": 42.08,
+        "risk_weighted_prs": 0.694,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "rafaeelaudibert": [
+      {
+        "week": "2026-02-16",
+        "delivery": 57.32,
+        "collaboration": 15.0,
+        "reliability": 64.38,
+        "leverage": 56.88,
+        "impact": 41.45,
+        "risk_weighted_prs": 3.479,
+        "reverts_issues": 0,
+        "pr_count": 8
+      }
+    ],
+    "richardsolomou": [
+      {
+        "week": "2026-02-16",
+        "delivery": 70.88,
+        "collaboration": 15.0,
+        "reliability": 64.15,
+        "leverage": 65.0,
+        "impact": 47.65,
+        "risk_weighted_prs": 1.058,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "rnegron": [
+      {
+        "week": "2026-02-16",
+        "delivery": 54.1,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 0.0,
+        "impact": 23.05,
+        "risk_weighted_prs": 0.212,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "robbie-c": [
+      {
+        "week": "2026-02-16",
+        "delivery": 66.71,
+        "collaboration": 15.0,
+        "reliability": 45.0,
+        "leverage": 43.33,
+        "impact": 37.5,
+        "risk_weighted_prs": 0.492,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "rodrigoi": [
+      {
+        "week": "2026-02-16",
+        "delivery": 59.84,
+        "collaboration": 15.0,
+        "reliability": 66.78,
+        "leverage": 65.0,
+        "impact": 44.62,
+        "risk_weighted_prs": 2.407,
+        "reverts_issues": 0,
+        "pr_count": 4
+      }
+    ],
+    "sakce": [
+      {
+        "week": "2026-02-16",
+        "delivery": 62.0,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 65.0,
+        "impact": 45.94,
+        "risk_weighted_prs": 0.365,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "sampennington": [
+      {
+        "week": "2026-02-16",
+        "delivery": 65.4,
+        "collaboration": 15.0,
+        "reliability": 70.0,
+        "leverage": 64.19,
+        "impact": 46.84,
+        "risk_weighted_prs": 4.031,
+        "reverts_issues": 0,
+        "pr_count": 8
+      }
+    ],
+    "sarahxsanders": [
+      {
+        "week": "2026-02-16",
+        "delivery": 67.8,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 65.0,
+        "impact": 44.86,
+        "risk_weighted_prs": 0.786,
+        "reverts_issues": 0,
+        "pr_count": 1
+      }
+    ],
+    "scheduled-actions-posthog": [
+      {
+        "week": "2026-02-16",
+        "delivery": 64.54,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 0.0,
+        "impact": 25.61,
+        "risk_weighted_prs": 1.624,
+        "reverts_issues": 0,
+        "pr_count": 3
+      }
+    ],
+    "skoob13": [
+      {
+        "week": "2026-02-16",
+        "delivery": 68.42,
+        "collaboration": 18.33,
+        "reliability": 67.78,
+        "leverage": 9.34,
+        "impact": 34.35,
+        "risk_weighted_prs": 3.027,
+        "reverts_issues": 0,
+        "pr_count": 6
+      }
+    ],
+    "sortafreel": [
+      {
+        "week": "2026-02-16",
+        "delivery": 51.39,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 65.0,
+        "impact": 39.66,
+        "risk_weighted_prs": 0.456,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "tatoalo": [
+      {
+        "week": "2026-02-16",
+        "delivery": 60.54,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 65.0,
+        "impact": 42.56,
+        "risk_weighted_prs": 1.196,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "thmsobrmlr": [
+      {
+        "week": "2026-02-16",
+        "delivery": 61.98,
+        "collaboration": 15.0,
+        "reliability": 60.0,
+        "leverage": 65.0,
+        "impact": 43.99,
+        "risk_weighted_prs": 1.422,
+        "reverts_issues": 0,
+        "pr_count": 3
+      }
+    ],
+    "timgl": [
+      {
+        "week": "2026-02-16",
+        "delivery": 58.85,
+        "collaboration": 15.0,
+        "reliability": 60.0,
+        "leverage": 65.0,
+        "impact": 42.99,
+        "risk_weighted_prs": 0.976,
+        "reverts_issues": 0,
+        "pr_count": 2
+      }
+    ],
+    "tomasfarias": [
+      {
+        "week": "2026-02-16",
+        "delivery": 63.47,
+        "collaboration": 15.0,
+        "reliability": 65.85,
+        "leverage": 65.0,
+        "impact": 45.61,
+        "risk_weighted_prs": 1.557,
+        "reverts_issues": 0,
+        "pr_count": 3
+      }
+    ],
+    "vdekrijger": [
+      {
+        "week": "2026-02-16",
+        "delivery": 60.3,
+        "collaboration": 15.0,
+        "reliability": 67.5,
+        "leverage": 60.67,
+        "impact": 43.88,
+        "risk_weighted_prs": 1.353,
+        "reverts_issues": 0,
+        "pr_count": 3
+      }
+    ],
+    "veryayskiy": [
+      {
+        "week": "2026-02-16",
+        "delivery": 67.77,
+        "collaboration": 15.0,
+        "reliability": 55.0,
+        "leverage": 63.98,
+        "impact": 44.61,
+        "risk_weighted_prs": 2.334,
+        "reverts_issues": 0,
+        "pr_count": 4
+      }
+    ],
+    "webjunkie": [
+      {
+        "week": "2026-02-16",
+        "delivery": 66.04,
+        "collaboration": 25.67,
+        "reliability": 59.56,
+        "leverage": 33.84,
+        "impact": 40.3,
+        "risk_weighted_prs": 7.675,
+        "reverts_issues": 0,
+        "pr_count": 15
+      }
+    ],
+    "yasen-posthog": [
+      {
+        "week": "2026-02-16",
+        "delivery": 61.98,
+        "collaboration": 15.0,
+        "reliability": 63.63,
+        "leverage": 63.56,
+        "impact": 44.36,
+        "risk_weighted_prs": 3.765,
+        "reverts_issues": 0,
+        "pr_count": 9
+      }
+    ],
+    "z0br0wn": [
+      {
+        "week": "2026-02-16",
+        "delivery": 63.86,
+        "collaboration": 15.0,
+        "reliability": 57.5,
+        "leverage": 0.0,
+        "impact": 25.8,
+        "risk_weighted_prs": 1.672,
+        "reverts_issues": 0,
+        "pr_count": 3
+      }
+    ]
+  },
+  "collaboration_graph": [
+    {
+      "reviewer": "copilot-pull-request-reviewer",
+      "author": "webjunkie",
+      "weight": 13
+    },
+    {
+      "reviewer": "copilot-pull-request-reviewer",
+      "author": "pauldambra",
+      "weight": 12
+    },
+    {
+      "reviewer": "fercgomes",
+      "author": "rafaeelaudibert",
+      "weight": 8
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "webjunkie",
+      "weight": 7
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "pauldambra",
+      "weight": 7
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "rafaeelaudibert",
+      "weight": 7
+    },
+    {
+      "reviewer": "chatgpt-codex-connector",
+      "author": "andrewm4894",
+      "weight": 6
+    },
+    {
+      "reviewer": "andrewm4894",
+      "author": "Radu-Raicea",
+      "weight": 6
+    },
+    {
+      "reviewer": "webjunkie",
+      "author": "mendral-app",
+      "weight": 5
+    },
+    {
+      "reviewer": "nickbest-ph",
+      "author": "eli-r-ph",
+      "weight": 5
+    },
+    {
+      "reviewer": "adamleithp",
+      "author": "pauldambra",
+      "weight": 5
+    },
+    {
+      "reviewer": "ReeceJones",
+      "author": "yasen-posthog",
+      "weight": 5
+    },
+    {
+      "reviewer": "chatgpt-codex-connector",
+      "author": "webjunkie",
+      "weight": 5
+    },
+    {
+      "reviewer": "adboio",
+      "author": "veryayskiy",
+      "weight": 5
+    },
+    {
+      "reviewer": "a-lider",
+      "author": "yasen-posthog",
+      "weight": 4
+    },
+    {
+      "reviewer": "gustavohstrassburger",
+      "author": "dmarticus",
+      "weight": 4
+    },
+    {
+      "reviewer": "pauldambra",
+      "author": "adamleithp",
+      "weight": 4
+    },
+    {
+      "reviewer": "chatgpt-codex-connector",
+      "author": "pauldambra",
+      "weight": 4
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "rodrigoi",
+      "weight": 4
+    },
+    {
+      "reviewer": "gesh",
+      "author": "sampennington",
+      "weight": 4
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "pauldambra",
+      "weight": 4
+    },
+    {
+      "reviewer": "thmsobrmlr",
+      "author": "sampennington",
+      "weight": 4
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "adamleithp",
+      "weight": 4
+    },
+    {
+      "reviewer": "rafaeelaudibert",
+      "author": "MattBro",
+      "weight": 4
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "Radu-Raicea",
+      "weight": 4
+    },
+    {
+      "reviewer": "mp-hog",
+      "author": "rodrigoi",
+      "weight": 4
+    },
+    {
+      "reviewer": "fercgomes",
+      "author": "MattBro",
+      "weight": 3
+    },
+    {
+      "reviewer": "andrewm4894",
+      "author": "richardsolomou",
+      "weight": 3
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "andehen",
+      "weight": 3
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "richardsolomou",
+      "weight": 3
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "dmarticus",
+      "weight": 3
+    },
+    {
+      "reviewer": "Radu-Raicea",
+      "author": "scheduled-actions-posthog",
+      "weight": 3
+    },
+    {
+      "reviewer": "jose-sequeira",
+      "author": "eli-r-ph",
+      "weight": 3
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "sampennington",
+      "weight": 3
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "andrewm4894",
+      "weight": 3
+    },
+    {
+      "reviewer": "Radu-Raicea",
+      "author": "andrewm4894",
+      "weight": 3
+    },
+    {
+      "reviewer": "carlos-marchal-ph",
+      "author": "andrewm4894",
+      "weight": 3
+    },
+    {
+      "reviewer": "matheus-vb",
+      "author": "patricio-posthog",
+      "weight": 3
+    },
+    {
+      "reviewer": "tatoalo",
+      "author": "skoob13",
+      "weight": 3
+    },
+    {
+      "reviewer": "rafaeelaudibert",
+      "author": "webjunkie",
+      "weight": 3
+    },
+    {
+      "reviewer": "andyzzhao",
+      "author": "vdekrijger",
+      "weight": 3
+    },
+    {
+      "reviewer": "z0br0wn",
+      "author": "eli-r-ph",
+      "weight": 3
+    },
+    {
+      "reviewer": "pl",
+      "author": "z0br0wn",
+      "weight": 3
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "andrewm4894",
+      "weight": 3
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "skoob13",
+      "weight": 3
+    },
+    {
+      "reviewer": "veryayskiy",
+      "author": "tomasfarias",
+      "weight": 2
+    },
+    {
+      "reviewer": "bciaraldi",
+      "author": "pauldambra",
+      "weight": 2
+    },
+    {
+      "reviewer": "mariusandra",
+      "author": "veryayskiy",
+      "weight": 2
+    },
+    {
+      "reviewer": "jurajmajerik",
+      "author": "andehen",
+      "weight": 2
+    },
+    {
+      "reviewer": "carlos-marchal-ph",
+      "author": "scheduled-actions-posthog",
+      "weight": 2
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "estefaniarabadan",
+      "weight": 2
+    },
+    {
+      "reviewer": "MarconLP",
+      "author": "estefaniarabadan",
+      "weight": 2
+    },
+    {
+      "reviewer": "sakce",
+      "author": "estefaniarabadan",
+      "weight": 2
+    },
+    {
+      "reviewer": "z0br0wn",
+      "author": "jose-sequeira",
+      "weight": 2
+    },
+    {
+      "reviewer": "skoob13",
+      "author": "webjunkie",
+      "weight": 2
+    },
+    {
+      "reviewer": "fasyy612",
+      "author": "TueHaulund",
+      "weight": 2
+    },
+    {
+      "reviewer": "frankh",
+      "author": "pauldambra",
+      "weight": 2
+    },
+    {
+      "reviewer": "webjunkie",
+      "author": "rodrigoi",
+      "weight": 2
+    },
+    {
+      "reviewer": "carlos-marchal-ph",
+      "author": "Radu-Raicea",
+      "weight": 2
+    },
+    {
+      "reviewer": "jose-sequeira",
+      "author": "z0br0wn",
+      "weight": 2
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "sampennington",
+      "weight": 2
+    },
+    {
+      "reviewer": "joshsny",
+      "author": "tatoalo",
+      "weight": 2
+    },
+    {
+      "reviewer": "vdekrijger",
+      "author": "andyzzhao",
+      "weight": 2
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "yasen-posthog",
+      "weight": 2
+    },
+    {
+      "reviewer": "rodrigoi",
+      "author": "andehen",
+      "weight": 2
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "patricio-posthog",
+      "weight": 2
+    },
+    {
+      "reviewer": "joshsny",
+      "author": "Twixes",
+      "weight": 2
+    },
+    {
+      "reviewer": "langesven",
+      "author": "MichaelKutsch-ph",
+      "weight": 2
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "frankh",
+      "weight": 2
+    },
+    {
+      "reviewer": "copilot-pull-request-reviewer",
+      "author": "frankh",
+      "weight": 2
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "thmsobrmlr",
+      "weight": 2
+    },
+    {
+      "reviewer": "pauldambra",
+      "author": "thmsobrmlr",
+      "weight": 2
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "z0br0wn",
+      "weight": 2
+    },
+    {
+      "reviewer": "hpouillot",
+      "author": "ablaszkiewicz",
+      "weight": 2
+    },
+    {
+      "reviewer": "rafaeelaudibert",
+      "author": "adamleithp",
+      "weight": 2
+    },
+    {
+      "reviewer": "richardsolomou",
+      "author": "andrewm4894",
+      "weight": 2
+    },
+    {
+      "reviewer": "sampennington",
+      "author": "pauldambra",
+      "weight": 2
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "Radu-Raicea",
+      "weight": 2
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "veryayskiy",
+      "weight": 2
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "veryayskiy",
+      "weight": 2
+    },
+    {
+      "reviewer": "thmsobrmlr",
+      "author": "jordanm-posthog",
+      "weight": 2
+    },
+    {
+      "reviewer": "copilot-pull-request-reviewer",
+      "author": "Gilbert09",
+      "weight": 2
+    },
+    {
+      "reviewer": "rafaeelaudibert",
+      "author": "fercgomes",
+      "weight": 2
+    },
+    {
+      "reviewer": "joshsny",
+      "author": "skoob13",
+      "weight": 2
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "rodrigoi",
+      "weight": 2
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "timgl",
+      "weight": 2
+    },
+    {
+      "reviewer": "georgemunyoro",
+      "author": "veryayskiy",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "clr182",
+      "weight": 1
+    },
+    {
+      "reviewer": "meikelmosby",
+      "author": "clr182",
+      "weight": 1
+    },
+    {
+      "reviewer": "langesven",
+      "author": "pawel-cebula",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "meikelmosby",
+      "weight": 1
+    },
+    {
+      "reviewer": "gustavohstrassburger",
+      "author": "meikelmosby",
+      "weight": 1
+    },
+    {
+      "reviewer": "sampennington",
+      "author": "vdekrijger",
+      "weight": 1
+    },
+    {
+      "reviewer": "mariusandra",
+      "author": "webjunkie",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "TueHaulund",
+      "weight": 1
+    },
+    {
+      "reviewer": "abhischekt",
+      "author": "pawel-cebula",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "sakce",
+      "weight": 1
+    },
+    {
+      "reviewer": "georgemunyoro",
+      "author": "sakce",
+      "weight": 1
+    },
+    {
+      "reviewer": "andyzzhao",
+      "author": "dmarticus",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "dmarticus",
+      "weight": 1
+    },
+    {
+      "reviewer": "copilot-pull-request-reviewer",
+      "author": "georgemunyoro",
+      "weight": 1
+    },
+    {
+      "reviewer": "lricoy",
+      "author": "georgemunyoro",
+      "weight": 1
+    },
+    {
+      "reviewer": "georgemunyoro",
+      "author": "adamleithp",
+      "weight": 1
+    },
+    {
+      "reviewer": "georgemunyoro",
+      "author": "pauldambra",
+      "weight": 1
+    },
+    {
+      "reviewer": "vdekrijger",
+      "author": "clickhouse-sync-posthog",
+      "weight": 1
+    },
+    {
+      "reviewer": "webjunkie",
+      "author": "rnegron",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "ordehi",
+      "weight": 1
+    },
+    {
+      "reviewer": "mp-hog",
+      "author": "ordehi",
+      "weight": 1
+    },
+    {
+      "reviewer": "ablaszkiewicz",
+      "author": "pauldambra",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "matheus-vb",
+      "weight": 1
+    },
+    {
+      "reviewer": "patricio-posthog",
+      "author": "matheus-vb",
+      "weight": 1
+    },
+    {
+      "reviewer": "rodrigoi",
+      "author": "jurajmajerik",
+      "weight": 1
+    },
+    {
+      "reviewer": "dmarticus",
+      "author": "pauldambra",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "rafaeelaudibert",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "benjackwhite",
+      "weight": 1
+    },
+    {
+      "reviewer": "pauldambra",
+      "author": "benjackwhite",
+      "weight": 1
+    },
+    {
+      "reviewer": "adboio",
+      "author": "benjackwhite",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "andyzzhao",
+      "weight": 1
+    },
+    {
+      "reviewer": "Gilbert09",
+      "author": "estefaniarabadan",
+      "weight": 1
+    },
+    {
+      "reviewer": "pauldambra",
+      "author": "luke-belton",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "luke-belton",
+      "weight": 1
+    },
+    {
+      "reviewer": "georgemunyoro",
+      "author": "frankh",
+      "weight": 1
+    },
+    {
+      "reviewer": "Gilbert09",
+      "author": "frankh",
+      "weight": 1
+    },
+    {
+      "reviewer": "ablaszkiewicz",
+      "author": "MichaelKutsch-ph",
+      "weight": 1
+    },
+    {
+      "reviewer": "Twixes",
+      "author": "webjunkie",
+      "weight": 1
+    },
+    {
+      "reviewer": "sampennington",
+      "author": "gesh",
+      "weight": 1
+    },
+    {
+      "reviewer": "thmsobrmlr",
+      "author": "gesh",
+      "weight": 1
+    },
+    {
+      "reviewer": "adamleithp",
+      "author": "webjunkie",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "tomasfarias",
+      "weight": 1
+    },
+    {
+      "reviewer": "andrewm4894",
+      "author": "tomasfarias",
+      "weight": 1
+    },
+    {
+      "reviewer": "benjackwhite",
+      "author": "meikelmosby",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "vdekrijger",
+      "weight": 1
+    },
+    {
+      "reviewer": "orian",
+      "author": "yasen-posthog",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "andehen",
+      "weight": 1
+    },
+    {
+      "reviewer": "sampennington",
+      "author": "thmsobrmlr",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "mendral-app",
+      "weight": 1
+    },
+    {
+      "reviewer": "sampennington",
+      "author": "mendral-app",
+      "weight": 1
+    },
+    {
+      "reviewer": "pauldambra",
+      "author": "webjunkie",
+      "weight": 1
+    },
+    {
+      "reviewer": "andehen",
+      "author": "mp-hog",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "adboio",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "adboio",
+      "weight": 1
+    },
+    {
+      "reviewer": "hpouillot",
+      "author": "adboio",
+      "weight": 1
+    },
+    {
+      "reviewer": "jabahamondes",
+      "author": "lricoy",
+      "weight": 1
+    },
+    {
+      "reviewer": "a-lider",
+      "author": "rafaeelaudibert",
+      "weight": 1
+    },
+    {
+      "reviewer": "lricoy",
+      "author": "rafaeelaudibert",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "orian",
+      "weight": 1
+    },
+    {
+      "reviewer": "Daesgar",
+      "author": "orian",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "sarahxsanders",
+      "weight": 1
+    },
+    {
+      "reviewer": "rafaeelaudibert",
+      "author": "sarahxsanders",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "ablaszkiewicz",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "ablaszkiewicz",
+      "weight": 1
+    },
+    {
+      "reviewer": "copilot-pull-request-reviewer",
+      "author": "ablaszkiewicz",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "ReeceJones",
+      "weight": 1
+    },
+    {
+      "reviewer": "a-lider",
+      "author": "ReeceJones",
+      "weight": 1
+    },
+    {
+      "reviewer": "yasen-posthog",
+      "author": "ReeceJones",
+      "weight": 1
+    },
+    {
+      "reviewer": "webjunkie",
+      "author": "rafaeelaudibert",
+      "weight": 1
+    },
+    {
+      "reviewer": "patricio-posthog",
+      "author": "dmarticus",
+      "weight": 1
+    },
+    {
+      "reviewer": "Daesgar",
+      "author": "fuziontech",
+      "weight": 1
+    },
+    {
+      "reviewer": "rorylshanks",
+      "author": "fuziontech",
+      "weight": 1
+    },
+    {
+      "reviewer": "richardsolomou",
+      "author": "Radu-Raicea",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "carlos-marchal-ph",
+      "weight": 1
+    },
+    {
+      "reviewer": "richardsolomou",
+      "author": "carlos-marchal-ph",
+      "weight": 1
+    },
+    {
+      "reviewer": "veryayskiy",
+      "author": "fasyy612",
+      "weight": 1
+    },
+    {
+      "reviewer": "veryayskiy",
+      "author": "andrewm4894",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "tatoalo",
+      "weight": 1
+    },
+    {
+      "reviewer": "skoob13",
+      "author": "andrewm4894",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "adamleithp",
+      "weight": 1
+    },
+    {
+      "reviewer": "andrewm4894",
+      "author": "adamleithp",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "jordanm-posthog",
+      "weight": 1
+    },
+    {
+      "reviewer": "oliverb123",
+      "author": "sortafreel",
+      "weight": 1
+    },
+    {
+      "reviewer": "tatoalo",
+      "author": "joshsny",
+      "weight": 1
+    },
+    {
+      "reviewer": "skoob13",
+      "author": "joshsny",
+      "weight": 1
+    },
+    {
+      "reviewer": "copilot-pull-request-reviewer",
+      "author": "joshsny",
+      "weight": 1
+    },
+    {
+      "reviewer": "TueHaulund",
+      "author": "fasyy612",
+      "weight": 1
+    },
+    {
+      "reviewer": "ablaszkiewicz",
+      "author": "adamleithp",
+      "weight": 1
+    },
+    {
+      "reviewer": "pauldambra",
+      "author": "hpouillot",
+      "weight": 1
+    },
+    {
+      "reviewer": "anirudhpillai",
+      "author": "thmsobrmlr",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "yasen-posthog",
+      "weight": 1
+    },
+    {
+      "reviewer": "adamleithp",
+      "author": "benjackwhite",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "Twixes",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "Twixes",
+      "weight": 1
+    },
+    {
+      "reviewer": "webjunkie",
+      "author": "Twixes",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "Gilbert09",
+      "weight": 1
+    },
+    {
+      "reviewer": "benjackwhite",
+      "author": "Gilbert09",
+      "weight": 1
+    },
+    {
+      "reviewer": "meikelmosby",
+      "author": "Gilbert09",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "fercgomes",
+      "weight": 1
+    },
+    {
+      "reviewer": "sampennington",
+      "author": "anirudhpillai",
+      "weight": 1
+    },
+    {
+      "reviewer": "sarahxsanders",
+      "author": "webjunkie",
+      "weight": 1
+    },
+    {
+      "reviewer": "MichaelKutsch-ph",
+      "author": "webjunkie",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "skoob13",
+      "weight": 1
+    },
+    {
+      "reviewer": "webjunkie",
+      "author": "veryayskiy",
+      "weight": 1
+    },
+    {
+      "reviewer": "vdekrijger",
+      "author": "pauldambra",
+      "weight": 1
+    },
+    {
+      "reviewer": "veryayskiy",
+      "author": "skoob13",
+      "weight": 1
+    },
+    {
+      "reviewer": "skoob13",
+      "author": "frankh",
+      "weight": 1
+    },
+    {
+      "reviewer": "langesven",
+      "author": "andrewm4894",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "robbie-c",
+      "weight": 1
+    },
+    {
+      "reviewer": "copilot-pull-request-reviewer",
+      "author": "robbie-c",
+      "weight": 1
+    },
+    {
+      "reviewer": "vdekrijger",
+      "author": "robbie-c",
+      "weight": 1
+    },
+    {
+      "reviewer": "robbie-c",
+      "author": "sampennington",
+      "weight": 1
+    },
+    {
+      "reviewer": "pawel-cebula",
+      "author": "abhischekt",
+      "weight": 1
+    },
+    {
+      "reviewer": "georgemunyoro",
+      "author": "webjunkie",
+      "weight": 1
+    },
+    {
+      "reviewer": "MarconLP",
+      "author": "sortafreel",
+      "weight": 1
+    },
+    {
+      "reviewer": "Gilbert09",
+      "author": "sortafreel",
+      "weight": 1
+    },
+    {
+      "reviewer": "joshsny",
+      "author": "sortafreel",
+      "weight": 1
+    },
+    {
+      "reviewer": "mp-hog",
+      "author": "andehen",
+      "weight": 1
+    },
+    {
+      "reviewer": "MarconLP",
+      "author": "Gilbert09",
+      "weight": 1
+    },
+    {
+      "reviewer": "ioannisj",
+      "author": "Classy-Bear",
+      "weight": 1
+    },
+    {
+      "reviewer": "webjunkie",
+      "author": "timgl",
+      "weight": 1
+    },
+    {
+      "reviewer": "eli-r-ph",
+      "author": "aspicer",
+      "weight": 1
+    },
+    {
+      "reviewer": "aspicer",
+      "author": "timgl",
+      "weight": 1
+    },
+    {
+      "reviewer": "graphite-app",
+      "author": "timgl",
+      "weight": 1
+    },
+    {
+      "reviewer": "thmsobrmlr",
+      "author": "timgl",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "MattBro",
+      "weight": 1
+    },
+    {
+      "reviewer": "aspicer",
+      "author": "eli-r-ph",
+      "weight": 1
+    },
+    {
+      "reviewer": "greptile-apps",
+      "author": "eli-r-ph",
+      "weight": 1
+    },
+    {
+      "reviewer": "orian",
+      "author": "jordanm-posthog",
+      "weight": 1
+    },
+    {
+      "reviewer": "sortafreel",
+      "author": "MarconLP",
+      "weight": 1
+    },
+    {
+      "reviewer": "Gilbert09",
+      "author": "MarconLP",
+      "weight": 1
+    }
+  ]
+}
